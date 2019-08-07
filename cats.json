@@ -1,0 +1,46 @@
+{
+  "pets": [
+    {
+      "name" : "Purrsloud",
+      "species" : "Cat",
+      "favFoods" : ["pigeons", "milk", "ice cream", "chineese food"],
+      "birthYear" : 2016,
+      "photo" : "https://cataas.com/cat/says/Purrsloud"
+    },
+    {
+      "name" : "Smushie",
+      "species" : "Cat",
+      "favFoods" : ["beef", "ice cream", "celery"],
+      "birthYear" : 20018,
+      "photo" : "https://cataas.com/cat/says/Smushie"
+    },
+    {
+      "name" : "Meowsalot",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "celery"],
+      "birthYear" : 2015,
+      "photo" : "https://cataas.com/cat/says/Meowsalot"
+    },
+    {
+      "name" : "Captain Sparrow",
+      "species" : "Cat",
+      "favFoods" : ["tuna", "catnip", "squids", "rum"],
+      "birthYear" : 2013,
+      "photo" : "https://cataas.com/cat/says/Captain%20Sparrow"
+    },
+    {
+      "name" : "Mickey",
+      "species" : "Cat",
+      "favFoods" : ["duck", "catnip", "cheese", "milk"],
+      "birthYear" : 2012,
+      "photo" : "https://cataas.com/cat/says/Mickey"
+    }
+    ,{
+      "name" : "Molly",
+      "species" : "Cat",
+      "favFoods" : ["sushi", "catnip", "mouse"],
+      "birthYear" : 2017,
+      "photo" : "https://cataas.com/cat/says/Molly"
+    }
+  ]
+}
